@@ -1,0 +1,26 @@
+{
+  "wallet": "5rpd8D5qusW7HYLxVjS6Usti3SWBaStk9aRnb522qub9",
+  "next_review_utc": "about 11:49 PM UTC",
+  "copies": [
+    {
+      "handle": "0xbec001",
+      "size": "$10 per trade",
+      "mode": "Buys + Sells",
+      "stop_loss": "–25%",
+      "take_profit": "+80%",
+      "chains": "Solana + Robinhood Chain",
+      "note": "Keep Robinhood Chain turned on for this copy in Dawn. Part of his buys are on Robinhood Chain.",
+      "warning": null
+    },
+    {
+      "handle": "dylansdegens",
+      "size": "Unknown",
+      "mode": "Unknown",
+      "stop_loss": "Unknown",
+      "take_profit": "Unknown",
+      "chains": "Unknown",
+      "note": null,
+      "warning": "Failed the last review: most of his profit is unsold MASK he keeps promoting, not sold profit. Added at the owner's request."
+    }
+  ]
+}
