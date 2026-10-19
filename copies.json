@@ -21,6 +21,16 @@
       "chains": "Unknown",
       "note": null,
       "warning": "Failed the last review: most of his profit is unsold MASK he keeps promoting, not sold profit. Added at the owner's request."
+    },
+    {
+      "handle": "heat",
+      "size": "Unknown",
+      "mode": "Unknown",
+      "stop_loss": "Unknown",
+      "take_profit": "Unknown",
+      "chains": "Unknown",
+      "note": null,
+      "warning": "Fails the owner's checks: most of his profit is unsold MASK that he keeps hyping. Added at the owner's request."
     }
   ]
 }
